@@ -64,3 +64,9 @@ The commit history is graded, so commit as you work rather than once at the end.
 - `.gitignore` already excludes notebook checkpoints, system files, and Word lock files.
 - GitHub rejects files over 100 MB. From ColabFold or AlphaFold output, commit the top-ranked model and the confidence images, not the full zip archive.
 - Before Dec 1, remove leftover placeholders and delete this file.
+
+## About this Template
+
+Prepared by Sarangan Ravichandran, PhD, PMP, for BIFX-550 Computational Functional Genomics, Hood College, Fall 2026. 
+
+Use of AI tools: this template was drafted in collaboration with Claude (Anthropic). The instructor reviewed and edited all content. 
