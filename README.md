@@ -77,4 +77,4 @@ Inputs are in `data/`. Every step, with its tool, version or access date, parame
 
 ## References
 
-<Databases, tools, and papers used, with versions or access dates.>
+<Databases, tools, and papers used, with versions or access dates. Include the course template: BIFX-550 Find-a-Gene template, github.com/ravichas/bifx550-find-a-gene-template.>
