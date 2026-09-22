@@ -1,11 +1,9 @@
 # Test H1- 22
 <p> This is a paragraph</p>
 
-<li> 
-* First
-* Second 
-* Third 
-</li>
+<li> First </li>
+<li> second </li>Second 
+
 
 ## Smaller Test H2 - 15
 ### Much smaller Test - 12
