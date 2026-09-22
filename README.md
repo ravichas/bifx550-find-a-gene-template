@@ -2,10 +2,11 @@
 <p> This is a paragraph</p>
 
 <li> 
-1. First
-2. Second 
-3. Third 
+* First
+* Second 
+* Third 
 </li>
+
 ## Smaller Test H2 - 15
 ### Much smaller Test - 12
 # [Novel protein name]: Find-a-Gene analysis in [Source species]
