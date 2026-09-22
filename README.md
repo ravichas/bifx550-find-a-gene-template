@@ -9,10 +9,6 @@ Author: [Your name] ([GitHub username])
 
 [Two or three sentences: the starting protein you searched with, the novel candidate you found and in which organism, and your key finding.]
 
-| Column1 | column2 | 
-| ---     | ---     |
-| value1  | value2 | 
-
 
 | Item | Value |
 |---|---|
